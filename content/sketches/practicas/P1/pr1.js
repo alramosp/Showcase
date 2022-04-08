@@ -1,7 +1,7 @@
-let imgg;
+let img;
 
 function preload() {
-  imgg = loadImage('/showcase/content/sketches/practicas/P1/leon.png');
+  img = loadImage('/showcase/content/sketches/practicas/P1/leon.png');
   
 }
 
@@ -10,6 +10,6 @@ function setup() {
   noLoop();
 }
 function draw() {
-  image(imgg, 0, 0);
+  image(img, 0, 0);
 }
 
