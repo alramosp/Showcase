@@ -1,7 +1,7 @@
 let img;
 
 function preload() {
-  img = loadImage('/showcase/content/sketches/Taller1/Lobo.jpg');
+  img = loadImage('/showcase/content/sketches/practicas/P1/leon.png');
   
 }
 
